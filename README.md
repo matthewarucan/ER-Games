@@ -32,7 +32,7 @@ Population statistics (1995-2017) for different countries.
 - Country code: code of the country used in public data
 - All other variables from 1995 to 2017: population of country in that year
 
-### 2.2: Data Credibility and ROCCC Assessment
+## 2.2: Data Credibility and ROCCC Assessment
 
 I will use ROCCC to assess whether this data has issues with bias or credibility.
 
@@ -42,6 +42,11 @@ I will use ROCCC to assess whether this data has issues with bias or credibility
 - **Current**: No, the data is not current. Population data stops at 2017 (not fully up-to-date). Game data’s relevance depends on its last update—if recent, it’s useful; if outdated, trends may not align with 2025 market dynamics.
 - **Cited**: Not explicitly mentioned. We need to verify the sources of the datasets.
 
+# 3: PROCESS
+
+In the process phase, we ensure our data is clean by correcting or removing inaccurate, corrupted, improperly formatted, duplicate, or incomplete entries within the dataset.
+
+## 3.1: Reviewing Our Data in Excel
 
 
 
