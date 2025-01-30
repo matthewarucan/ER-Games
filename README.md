@@ -1,3 +1,3 @@
-![](assets/gaming.png)
+![](assets/GAMING-min.png)
 
 # ER-Games
