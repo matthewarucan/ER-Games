@@ -47,6 +47,16 @@ I will use ROCCC to assess whether this data has issues with bias or credibility
 In the process phase, we ensure our data is clean by correcting or removing inaccurate, corrupted, improperly formatted, duplicate, or incomplete entries within the dataset.
 
 ## 3.1: Reviewing Our Data in Excel
+We open your worksheet to review headers, data types, and any obvious issues such as extra spaces or misformatted dates. We also adjust column sizes to ensure clear visibility of the data. Additionally, locking the header columns keeps the column labels visible while scrolling horizontally through a large dataset, making it easier to identify which data corresponds to each column (View -> Freeze First Column).
+### 3.1.1: Quick Filtering
+We want to quickly filter our data to check for any NULL, 'NA', or 0 values. Use Data → Filter to review unique values and identify any irregularities in each column.
+
+## 3.2: Data Cleaning
+
+
+
+
+
 
 
 
