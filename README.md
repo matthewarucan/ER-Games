@@ -46,6 +46,9 @@ I will use ROCCC to assess whether this data has issues with bias or credibility
 
 In the process phase, we ensure our data is clean by correcting or removing inaccurate, corrupted, improperly formatted, duplicate, or incomplete entries within the dataset.
 
+##### Preview of our Raw Data
+![](assets/raw_data.png)
+
 ## 3.1: Reviewing Our Data in Excel
 We open your worksheet to review headers, data types, and any obvious issues such as extra spaces or misformatted dates. We also adjust column sizes to ensure clear visibility of the data. Additionally, locking the header columns keeps the column labels visible while scrolling horizontally through a large dataset, making it easier to identify which data corresponds to each column (View -> Freeze First Column). Lastly, we want to add commas separating our numbers to read it easier.
 
