@@ -19,18 +19,18 @@ ER Games is a small company competing against larger RPG game studios. They have
 
 ## 2.1 Data Sources:
 Console Data (Game Sales & Reviews)
-
-Game information: 
 - Name, platform, genre, developer, publisher, release year.
 - Sales data: NA, Europe, Japan, and Other regions.
 - User & critic reviews: Ratings & number of reviews.
 - ESRB ratings: Audience appropriateness.
 - Population Data (Market Size & Trends)
+- 8064 Entries, 15 Columns
 
-Population statistics (1995-2017) for different countries.
+Population Data (1995-2017) for different countries.
 - Country Name: name of the country
 - Country code: code of the country used in public data
-- All other variables from 1995 to 2017: population of country in that year
+- All other variables from 1995 to 2017: population of the country in that year
+- 265 Entries, 25 Columns
 
 ## 2.2: Data Credibility and ROCCC Assessment
 
@@ -43,11 +43,13 @@ I will use ROCCC to assess whether this data has issues with bias or credibility
 - **Cited**: Not explicitly mentioned. We need to verify the sources of the datasets.
 
 # 3: PROCESS PHASE
-
 In the process phase, we ensure our data is clean by correcting or removing inaccurate, corrupted, improperly formatted, duplicate, or incomplete entries within the dataset.
 
-##### Preview of our Raw Data
+##### Preview of our Raw Console Data
 ![](assets/raw_data.png)
+
+##### Preview of our Raw Population Data
+![](assets/raw_data_population.png)
 
 ## 3.1: Reviewing Our Data in Excel
 We open your worksheet to review headers, data types, and any obvious issues such as extra spaces or misformatted dates. We also adjust column sizes to ensure clear visibility of the data. Additionally, locking the header columns keeps the column labels visible while scrolling horizontally through a large dataset, making it easier to identify which data corresponds to each column (View -> Freeze First Column). Lastly, we want to add commas separating our numbers to read it easier.
@@ -83,6 +85,8 @@ For the critic score region weight, we multiply the region's sales for a specifi
 ![](assets/critic_score_region_weight.png)
 
 
+# 4: ANALYZE PHASE
+In this step, we calculate key metrics, analyze patterns, and summarize data to provide insights that address our business objectives.
 
 
 
