@@ -63,6 +63,16 @@ We conduct these steps for each column involving text so that it prevents lookup
 #### 3.2:2: Remove Duplicate Rows
 We want to eliminate rows that are completely duplicate data in the whole row. In the Remove Duplicates dialog box, make sure the 'My list has headers' checkbox is selected if your dataset includes headers. To ensure that an entire row matches exactly before a duplicate is removed, check all columns so that Excel compares the values in every column of each row. If any columns are left unchecked, Excel will only use the selected columns to determine duplicates, which may result in partial matches rather than complete row duplicates.
 
+## 3.3: Adding Column
+We aim to add and calculate new columns to better address our key questions: How can ER Games align its new puzzle-RPG hybrid game with current industry trends? Beyond the US, which international markets should ER Games prioritize? And how do shifting consumer preferences and demographics impact ER Games' marketing and sales strategy?
+
+#### 3.3.1: Critic Score Region Weight for Europe, Japan, and North America
+By combining sales and reception data, ER Games can gain deeper insights into its game's performance, as sales alone may be driven by hype or brand recognition rather than genuine enjoyment. Critic and user scores provide a crucial layer of quality perception, helping to determine whether players truly appreciate the game or if sales are influenced by other factors. This approach enables ER Games to assess not only revenue but also customer satisfaction across different regions.
+
+We create 6 new columns: critic score eu region weight, critic score jp region weight, critic score na region weight, user score eu region weight, user score jp region weight, and user score na region weight.
+
+For the critic score region weight, we multiply the region's sales for a specific game by the critic score, and vice versa for the user score.
+
 
 
 
