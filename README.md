@@ -68,7 +68,7 @@ We conduct these steps for each column involving text so that it prevents lookup
 #### 3.2:2: Remove Duplicate Rows
 We want to eliminate rows that are completely duplicate data in the whole row. In the Remove Duplicates dialog box, make sure the 'My list has headers' checkbox is selected if your dataset includes headers. To ensure that an entire row matches exactly before a duplicate is removed, check all columns so that Excel compares the values in every column of each row. If any columns are left unchecked, Excel will only use the selected columns to determine duplicates, which may result in partial matches rather than complete row duplicates.
 
-## 3.3: Adding Column
+## 3.3: Adding Column for Console Data
 We aim to add and calculate new columns to better address our key questions: How can ER Games align its new puzzle-RPG hybrid game with current industry trends? Beyond the US, which international markets should ER Games prioritize? And how do shifting consumer preferences and demographics impact ER Games' marketing and sales strategy?
 
 #### 3.3.1: Critic and User Score Region Weight for Europe, Japan, and North America
@@ -87,6 +87,8 @@ For the critic score region weight, we multiply the region's sales for a specifi
 
 # 4: ANALYZE PHASE
 In this step, we calculate key metrics, analyze patterns, and summarize data to provide insights that address our business objectives.
+
+
 
 
 
