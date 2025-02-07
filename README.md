@@ -73,10 +73,10 @@ We create 6 new columns: critic score eu region weight, critic score jp region w
 
 For the critic score region weight, we multiply the region's sales for a specific game by the critic score, and vice versa for the user score.
 
-## User Score Region Wight Formula (e.g. =IFERROR(G2*L2, "0"))
+##### User Score Region Wight Formula (e.g. =IFERROR(G2*L2, "0"))
 ![](assets/user_score_region_weight.png)
 
-## Critic Score Region Wight Formula (e.g. =IFERROR(G2*J2, "0"))
+##### Critic Score Region Wight Formula (e.g. =IFERROR(G2*J2, "0"))
 ![](assets/critic_score_region_weight.png)
 
 
