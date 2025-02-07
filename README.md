@@ -49,7 +49,7 @@ In the process phase, we ensure our data is clean by correcting or removing inac
 ![](assets/raw_data.png)
 
 ##### Preview of our Raw Population Data
-![](assets/raw_data_population .png)
+![](assets/raw_data_population.png)
 
 ## 3.1: Reviewing Our Data in Excel
 We open your worksheet to review headers, data types, and any obvious issues such as extra spaces or misformatted dates. We also adjust column sizes to ensure clear visibility of the data. Additionally, locking the header columns keeps the column labels visible while scrolling horizontally through a large dataset, making it easier to identify which data corresponds to each column (View -> Freeze First Column). Lastly, we want to add commas separating our numbers to read it easier.
