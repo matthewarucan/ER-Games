@@ -88,6 +88,8 @@ For the critic score region weight, we multiply the region's sales for a specifi
 # 4: ANALYZE PHASE
 In this step, we calculate key metrics, analyze patterns, and summarize data to provide insights that address our business objectives.
 
+![](assets/genre_sales_avg_region.png)
+
 
 
 
