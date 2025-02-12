@@ -92,10 +92,18 @@ In this step, we calculate key metrics, analyze patterns, and summarize data to 
 ![](assets/genre_sales_avg_region.png)
 Using the console data, we create a pivot table with values in the columns and genres in the rows, calculating the average of 'na_sales,' 'eu_sales,' and 'jp_sales.' The highest average sales are for role-playing games in Japan and shooter games in the EU and NA regions.
 
-##### Graph 2: Average Region Sales Per Genre
+##### Graph 2: Average Region Sales Per Gaming Platform
 ![](assets/plateform_sales_avgregion.png)
+Using the console data, we created a pivot table with platform names in the rows and sales values in the columns, calculating the average for 'na_sales,' 'eu_sales,' and 'jp_sales.'
 
+Overall, the consoles with the highest average sales include the PS4, Wii U, and Xbox 360. The top-selling console by average game sales varies by region: the PS4 leads in North America, the 3DS in Japan, and the Xbox 360 in Europe.
+
+##### Graph 3: Average Region Sales Per Gaming Platform
 ![](assets/sales_per_capita_year.png)
+
+
+
+
 ![](assets/population_per_region.png)
 
 ![](assets/user_score.png)
