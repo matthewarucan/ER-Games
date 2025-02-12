@@ -93,7 +93,7 @@ In this step, we calculate key metrics, analyze patterns, and summarize data to 
 Using the console data, we create a pivot table with values in the columns and genres in the rows, calculating the average of 'na_sales,' 'eu_sales,' and 'jp_sales.' The highest average sales are for role-playing games in Japan and shooter games in the EU and NA regions.
 
 ##### Graph 2: Average Region Sales Per Genre
-![](assets/plateform_sales_avg_region.png)
+![](assets/plateform_sales_avgregion.png)
 
 ![](assets/sales_per_capita_year.png)
 ![](assets/population_per_region.png)
