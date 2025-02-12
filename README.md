@@ -88,7 +88,34 @@ For the critic score region weight, we multiply the region's sales for a specifi
 # 4: ANALYZE PHASE
 In this step, we calculate key metrics, analyze patterns, and summarize data to provide insights that address our business objectives.
 
+##### Average Region Sales Per Genre
+
 ![](assets/genre_sales_avg_region.png)
+![](assets/plateform_sales_avg_region.png)
+
+![](assets/sales_per_capita_year.png)
+![](assets/population_per_region.png)
+
+![](assets/user_score.png)
+![](assets/critic_score.png)
+
+![](assets/Puzzle-Sales-Per-Capita.png)
+![](assets/role-playing-sales-per-capita.png)
+
+![](assets/marketshare-non-pc.png)
+![](assets/marketshare-pc.png)
+
+
+
+# 5. SHARE AND ACT PHASE
+
+Europe (EU) has a higher Sales Per Capita (0.21) than Japan (0.19), it suggests that, on average, more games are being sold per person in Europe compared to Japan. A higher sales per capita means a larger percentage of the population in Europe is buying games compared to Japan. But, if we look at the sales per capita for each genre, we see that historically, sales per capita for Role-Playing games have been higher in Japan. This supports that Japan is a strong RPG market, aligning with industry trends. Since ER Games' new game is a Puzzle-RPG hybrid, Japan still remains a crucial market for the RPG aspect. For Puzzle games, both EU and Japan had an increase in 
+
+Japan had higher sales per capita for 5 years
+
+
+a large portion of a 17 year span, but sales are now on par with the EU. This suggests that while puzzle games were once more popular in Japan, they are now equally embraced in Europe.
+It could mean puzzle games have matured in Japan (less room for growth) while Europe may still have expansion potential.
 
 
 
