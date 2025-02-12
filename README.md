@@ -88,9 +88,11 @@ For the critic score region weight, we multiply the region's sales for a specifi
 # 4: ANALYZE PHASE
 In this step, we calculate key metrics, analyze patterns, and summarize data to provide insights that address our business objectives.
 
-##### Average Region Sales Per Genre
-
+##### Graph 1: Average Region Sales Per Genre
 ![](assets/genre_sales_avg_region.png)
+Using the console data, we create a pivot table with values in the columns and genres in the rows, calculating the average of 'na_sales,' 'eu_sales,' and 'jp_sales.' The highest average sales are for role-playing games in Japan and shooter games in the EU and NA regions.
+
+##### Graph 2: Average Region Sales Per Genre
 ![](assets/plateform_sales_avg_region.png)
 
 ![](assets/sales_per_capita_year.png)
