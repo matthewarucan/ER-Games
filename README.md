@@ -98,8 +98,9 @@ Using the console data, we created a pivot table with platform names in the rows
 
 Overall, the consoles with the highest average sales include the PS4, Wii U, and Xbox 360. The top-selling console by average game sales varies by region: the PS4 leads in North America, the 3DS in Japan, and the Xbox 360 in Europe.
 
-##### Graph 3: Average Region Sales Per Gaming Platform
+##### Graph 3: Sales Per Capita Over Time by Region
 ![](assets/sales_per_capita_year.png)
+We begin by creating a pivot table with 'year_of_release' in the rows, 'Values' in the columns, and 'Sum of eu_sales' and 'Sum of jp_sales' in the values. Next, we determine the population of Japan and the EU for each year using VLOOKUP to retrieve these values from the population table (e.g., =VLOOKUP(E$3, 'Population Count'!$A$3:$S$7, 2, FALSE)). Once we obtain the population count for each year, we calculate sales per capita by dividing sales by the corresponding population count (e.g., =C4/E4). Finally, we compute the average sales per capita for each region.
 
 
 
