@@ -122,11 +122,11 @@ Our analysis shows that Japan has the highest critic scores for most gaming genr
 
 #### Graph 7:
 ![](assets/Puzzle-Sales-Per-Capita.png)
-
+Breaking down the sales per capita over time by region for the Puzzle genre in Japan and the EU, we see that puzzle game sales across all consoles are trending downward overall.
 
 #### Graph 8:
 ![](assets/role-playing-sales-per-capita.png)
-
+Breaking down the sales per capita over time by region for the Role-Playing genre in Japan and the EU, we see that Japan has had a higher sales per capita every year. Japan's sales per capita peaked in 2008 at nearly 0.120, while the EU's peak occurred in 2011 at 0.026.
 
 #### Graph 9:
 ![](assets/marketshare-non-pc.png)
