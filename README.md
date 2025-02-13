@@ -138,13 +138,45 @@ North America is the largest market for Puzzle and Role-Playing games on non-PC 
 
 
 # 5. SHARE AND ACT PHASE
-Europe (EU) has a higher Sales Per Capita (0.21) than Japan (0.19), it suggests that, on average, more games are being sold per person in Europe compared to Japan. A higher sales per capita means a larger percentage of the population in Europe is buying games compared to Japan. But, if we look at the sales per capita for each genre, we see that historically, sales per capita for Role-Playing games have been higher in Japan. This supports that Japan is a strong RPG market, aligning with industry trends. Since ER Games' new game is a Puzzle-RPG hybrid, Japan still remains a crucial market for the RPG aspect. For Puzzle games, both EU and Japan had an increase in 
+# ER Games Market Strategy Analysis
 
-Japan had higher sales per capita for 5 years
+## 1. How can ER Games align its new puzzle-RPG hybrid game with current industry trends?
+The data suggests that **Japan is a strong RPG market**, historically showing the highest sales per capita for the genre.  
+Puzzle games, on the other hand, have seen a **decline in sales per capita across all regions**.
 
+### Strategy:
+- **Hybrid Approach:** Since ER Games is making a **Puzzle-RPG hybrid**, they should focus on **highlighting RPG mechanics** while incorporating puzzle elements strategically.
+- **Platform Strategy:** Japanese gamers tend to prefer **consoles and handhelds over PC** for these genres. ER Games should prioritize **console releases in Japan** over PC.
+- **Critical Reception & Quality:** Japan has **higher weighted user and critic scores for RPGs**. High-quality gameplay and storytelling will be crucial for success.
+- **Marketing Strategy:**  
+  - Emphasize **role-playing aspects in Japan**.  
+  - Leverage **puzzle mechanics in Europe and North America**, where the genre balance is more even.
 
-a large portion of a 17 year span, but sales are now on par with the EU. This suggests that while puzzle games were once more popular in Japan, they are now equally embraced in Europe.
-It could mean puzzle games have matured in Japan (less room for growth) while Europe may still have expansion potential.
+## 2. Besides the US, which international markets should ER Games focus on?
+- **Japan:** The **highest RPG sales per capita historically** suggest that Japan is a key market.
+- **Europe:** Has a **higher overall sales per capita than Japan (0.21 vs. 0.19)**, meaning more games are sold per person.
+
+### Regional Differences:
+- **Japan remains a strong RPG market** and should be targeted for the RPG aspect of the game.
+- **Puzzle games in Japan and the EU are now on par**, meaning **Europe has more potential for growth in this genre**.
+- **North America is the largest non-PC market**, but **Europe has a more stable sales distribution**.
+
+### Action Plan:
+- Prioritize **Japan for RPG-focused marketing**.
+- Position **Europe as a key puzzle-game market**.
+- Implement a **console-first approach** to align with platform preferences.
+
+## 3. How do changing consumer preferences and demographics influence ER Games' marketing and sales strategy?
+- **Demographic Shift:** Japan’s **declining population** suggests a **shrinking market size**. However, their **strong RPG preference** means they are still a core audience.
+- **Puzzle Genre Decline:** Puzzle game sales have been **trending downward**, so ER Games should ensure its puzzle mechanics **enhance rather than replace RPG elements**.
+- **Platform Preferences:** Since Japan prefers **consoles and handhelds over PC** for these genres, ER Games should optimize for **console-first development**.
+- **Sales Stability:** The **non-PC market is more balanced and stable** than the PC market, meaning ER Games should expect **steadier sales if targeting consoles**.
+
+### Marketing Adjustments:
+- **Japan:** Focus on **storytelling and RPG depth** to attract dedicated RPG fans.
+- **Europe:** Leverage **puzzle-solving mechanics** as an engagement hook.
+- **North America:** Position the game as a **hybrid experience that blends strategy (puzzle) with adventure (RPG)**.
+
 
 
 
