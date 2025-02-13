@@ -128,13 +128,13 @@ Breaking down the sales per capita over time by region for the Puzzle genre in J
 ![](assets/role-playing-sales-per-capita.png)
 Breaking down the sales per capita over time by region for the Role-Playing genre in Japan and the EU, we see that Japan has had a higher sales per capita every year. Japan's sales per capita peaked in 2008 at nearly 0.120, while the EU's peak occurred in 2011 at 0.026.
 
-#### Graph 9:
+#### Graph 9: Regional Market Share of Puzzle/Role-Playing Games on Non-PC Platforms
 ![](assets/marketshare-non-pc.png)
+Europe and North America are the primary markets for PC-based Puzzle and Role-Playing games, with the EU maintaining a dominant share over time. In contrast, Japan's contribution to these genres on PC is minimal, suggesting a stronger preference for other platforms, such as consoles. Sales distribution fluctuates year by year, with occasional spikes in North American sales, but overall, the European market remains the most significant.
 
-
-#### Graph 10:
+#### Graph 10: Regional Market Share of Puzzle/Role-PLaying Games on PC Platforms
 ![](assets/marketshare-pc.png)
-
+North America is the largest market for Puzzle and Role-Playing games on non-PC platforms, with Japan and Europe following closely behind. Unlike the PC market, Japan plays a significantly larger role in non-PC sales, reinforcing the idea that Japanese gamers prefer consoles and handheld devices for these genres. Additionally, the non-PC market exhibits a more balanced and stable sales distribution over time compared to the fluctuations seen in the PC market.
 
 
 # 5. SHARE AND ACT PHASE
