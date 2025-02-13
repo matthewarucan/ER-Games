@@ -114,17 +114,30 @@ To calculate the weighted average user score for each region, we divide the 'sum
 
 #### Graph 6: Weighted Average Critic Score by Genre and Region
 ![](assets/critic_score.png)
+We follow the same steps as in 'Graph 5,' but instead of using the user score, we use the critic score. To create this histogram, we generate a pivot table with 'genre' as the row variable and the following metrics in the values section: 'sum of critic score EU region weight,' 'sum of critic score NA region weight,' 'sum of critic score JP region weight,' 'sum of EU sales,' 'sum of JP sales,' and 'sum of NA sales.' This pivot table categorizes each genre by these values.
 
+To calculate the weighted average critic score for each region, we divide the 'sum of critic score region weight' by the 'sum of region sales.' This weighted average critic score reflects overall player satisfaction in different regions, adjusted for the number of units sold.
+
+Our analysis shows that Japan has the highest critic scores for most gaming genres, except for role-playing, action, and shoo
+
+#### Graph 7:
 ![](assets/Puzzle-Sales-Per-Capita.png)
+
+
+#### Graph 8:
 ![](assets/role-playing-sales-per-capita.png)
 
+
+#### Graph 9:
 ![](assets/marketshare-non-pc.png)
+
+
+#### Graph 10:
 ![](assets/marketshare-pc.png)
 
 
 
 # 5. SHARE AND ACT PHASE
-
 Europe (EU) has a higher Sales Per Capita (0.21) than Japan (0.19), it suggests that, on average, more games are being sold per person in Europe compared to Japan. A higher sales per capita means a larger percentage of the population in Europe is buying games compared to Japan. But, if we look at the sales per capita for each genre, we see that historically, sales per capita for Role-Playing games have been higher in Japan. This supports that Japan is a strong RPG market, aligning with industry trends. Since ER Games' new game is a Puzzle-RPG hybrid, Japan still remains a crucial market for the RPG aspect. For Puzzle games, both EU and Japan had an increase in 
 
 Japan had higher sales per capita for 5 years
