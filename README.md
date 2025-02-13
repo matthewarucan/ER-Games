@@ -88,26 +88,31 @@ For the critic score region weight, we multiply the region's sales for a specifi
 # 4: ANALYZE PHASE
 In this step, we calculate key metrics, analyze patterns, and summarize data to provide insights that address our business objectives.
 
-##### Graph 1: Average Region Sales Per Genre
+#### Graph 1: Average Region Sales Per Genre
 ![](assets/genre_sales_avg_region.png)
 Using the console data, we create a pivot table with values in the columns and genres in the rows, calculating the average of 'na_sales,' 'eu_sales,' and 'jp_sales.' The highest average sales are for role-playing games in Japan and shooter games in the EU and NA regions.
 
-##### Graph 2: Average Region Sales Per Gaming Platform
+#### Graph 2: Average Region Sales Per Gaming Platform
 ![](assets/plateform_sales_avgregion.png)
 Using the console data, we created a pivot table with platform names in the rows and sales values in the columns, calculating the average for 'na_sales,' 'eu_sales,' and 'jp_sales.'
 
 Overall, the consoles with the highest average sales include the PS4, Wii U, and Xbox 360. The top-selling console by average game sales varies by region: the PS4 leads in North America, the 3DS in Japan, and the Xbox 360 in Europe.
 
-##### Graph 3: Sales Per Capita Over Time by Region
+#### Graph 3: Sales Per Capita Over Time by Region
 ![](assets/sales_per_capita_year.png)
-We begin by creating a pivot table with 'year_of_release' in the rows, 'Values' in the columns, and 'Sum of eu_sales' and 'Sum of jp_sales' in the values. Next, we determine the population of Japan and the EU for each year using VLOOKUP to retrieve these values from the population table (e.g., =VLOOKUP(E$3, 'Population Count'!$A$3:$S$7, 2, FALSE)). Once we obtain the population count for each year, we calculate sales per capita by dividing sales by the corresponding population count (e.g., =C4/E4). Finally, we compute the average sales per capita for each region.
+We create a pivot table with 'year_of_release' in the rows, 'Values' in the columns, and 'Sum of eu_sales' and 'Sum of jp_sales' in the values. Next, we determine the population of Japan and the EU for each year using VLOOKUP to retrieve these values from the population table (e.g., =VLOOKUP(E$3, 'Population Count'!$A$3:$S$7, 2, FALSE)). Once we obtain the population count for each year, we calculate sales per capita by dividing sales by the corresponding population count (e.g., =C4/E4). Finally, we compute the average sales per capita for each region.
 
-
-
-
+#### Graph 4: Population For Each Region
 ![](assets/population_per_region.png)
+We create a simple pivot table with 'Country Name' as our columns, 'Values' as our rows, and the sum of sales for each year as the values. The data shows an exponential population increase in the EU and US, while Japan's population experiences a significant decline.
 
+#### Graph 5: Weighted Average User Score by Genre and Region 
 ![](assets/user_score.png)
+We create this histogram by generating a pivot table with 'genre' and 'values' in the rows and the following metrics in the values section: 'sum of user score EU region weight,' 'sum of user score NA region weight,' 'sum of user score JP region weight,' 'sum of EU sales,' 'sum of JP sales,' and 'sum of NA sales.' This results in a pivot table that breaks down each genre by these values.
+
+To calculate the weighted average user score for each region, we divide the 'sum of user score region weight' by the 'sum of region sales.' The weighted average user score represents overall player satisfaction in different regions, adjusted for the number of units sold. Our analysis shows that Japan consistently has the highest weighted average user score across all gaming genres compared to the EU and NA.
+
+#### Graph 6: Weighted Average Critic Score by Genre and Region
 ![](assets/critic_score.png)
 
 ![](assets/Puzzle-Sales-Per-Capita.png)
